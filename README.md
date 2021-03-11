@@ -8,5 +8,15 @@
  
  </div>
 
-# PDO_PHP
-This basic project in PHP represents a connection between PHP and a database server
+ ## 🚀 Tecnologies
+
+This project has been developed with the following technologies:
+
+- PHP
+- MYSQL
+- HTML5
+- CSS3
+
+## 💻 Project
+
+This basic project in PHP represents a connection between PHP and a database server🧩
