@@ -8,4 +8,4 @@ Follow these steps:
 4. send to the major branch: `git push origin <name_this_project> / <local>`
 5. request the pull.
 
-alternative way, check it out documentation of GitHub [how to create one request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternative way, check it out documentation of GitHub [how to create one request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
