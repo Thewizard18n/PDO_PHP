@@ -20,3 +20,7 @@ This project has been developed with the following technologies:
 ## 💻 Project
 
 This basic project in PHP represents a connection between PHP and a database server🧩
+
+## 🔥Be one of the contributors<br>
+
+Click [HERE](contribuition.md) and see how to contribute.<br>
